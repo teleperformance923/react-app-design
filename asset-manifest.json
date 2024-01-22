@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/funda-app.git/static/css/main.036eb82b.css",
-    "main.js": "/funda-app.git/static/js/main.d20b248d.js",
-    "static/js/787.bb9ab861.chunk.js": "/funda-app.git/static/js/787.bb9ab861.chunk.js",
-    "static/media/Sencillo.jpg": "/funda-app.git/static/media/Sencillo.6eb8e97bdd97a16050d0.jpg",
-    "index.html": "/funda-app.git/index.html",
-    "main.036eb82b.css.map": "/funda-app.git/static/css/main.036eb82b.css.map",
-    "main.d20b248d.js.map": "/funda-app.git/static/js/main.d20b248d.js.map",
-    "787.bb9ab861.chunk.js.map": "/funda-app.git/static/js/787.bb9ab861.chunk.js.map"
+    "main.css": "/react-app-design/static/css/main.036eb82b.css",
+    "main.js": "/react-app-design/static/js/main.47999777.js",
+    "static/js/787.bb9ab861.chunk.js": "/react-app-design/static/js/787.bb9ab861.chunk.js",
+    "static/media/Sencillo.jpg": "/react-app-design/static/media/Sencillo.6eb8e97bdd97a16050d0.jpg",
+    "index.html": "/react-app-design/index.html",
+    "main.036eb82b.css.map": "/react-app-design/static/css/main.036eb82b.css.map",
+    "main.47999777.js.map": "/react-app-design/static/js/main.47999777.js.map",
+    "787.bb9ab861.chunk.js.map": "/react-app-design/static/js/787.bb9ab861.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.036eb82b.css",
-    "static/js/main.d20b248d.js"
+    "static/js/main.47999777.js"
   ]
 }
